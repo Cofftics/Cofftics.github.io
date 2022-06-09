@@ -1,0 +1,76 @@
+figure.LogoContainer {
+    margin: 0 0 0 0;
+    border: 1px;
+    border-color: #836450;
+    border-width: 1px;
+    
+}
+
+img.Logo {
+
+    padding-right: 100px;
+    padding-top: 90px;
+}
+
+div.LogoSection {
+    margin: 0;
+    background-color:#2c2424;
+    padding-right: 100px;
+    display: flex;
+}
+
+
+body {
+    background-color:#836450 ;
+    margin: 0;
+}
+
+
+div.HeroSection {
+    margin-top: 0;
+
+}
+
+figure.HeroContainer {
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+
+header a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+ 
+}
+
+
+a.i {
+    margin: 0;
+    position: relative;
+    top: 290px;
+    right: 550px;
+}
+
+a.qs {
+    margin: 0;
+    position: relative;
+    top: 270px;
+    right: 520px;
+}
+
+
+a.con {
+    margin: 0;
+    position: relative;
+    top: 250px;
+    right: 400px;
+}
+
+
+a.cus {
+    margin: 0;
+    position: relative;
+    top: 230px;
+    right:310px;
+}
